@@ -1,0 +1,11 @@
+*.ad.lgappstv.com
+*.ibis.lgappstv.com
+*.lgad.cjpowercast.com.edgesuite.net
+*.lgsmartad.com
+*.ibs.lgappstv.com
+*.yumenetworks.com
+*.lgtvsdp.com
+*.smartshare.lgtvsdp.com
+*.rdx2.lgtvsdp.com
+*.lgtvcommon.com
+*.aic-ngfts.lge.com
